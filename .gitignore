@@ -1,0 +1,8 @@
+# Ignore .DS_Store files in all folders
+**/.DS_Store
+
+# Ignore __pycache__ directories in all folders
+**/__pycache__/
+
+# Ignore IPython Notebook checkpoints in all folders
+**/*.ipynb_checkpoints/
